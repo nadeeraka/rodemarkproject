@@ -12,3 +12,15 @@
     min-height: 55px;
     padding: 0 15px 15px;
 }
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover{
+
+    color: #ffffff;
+    background-color: #5e4485;
+}
+
+.navbar-inverse .navbar-nav .active a:hover
+{
+    color: #D5D5D5;
+}
