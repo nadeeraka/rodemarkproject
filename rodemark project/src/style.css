@@ -11,6 +11,10 @@
     float: left;
     min-height: 55px;
     padding: 0 15px 15px;
+    font-family: 'Permanent Marker',
+    cursive;
+    font-size: 3em;
+
 }
 .navbar-inverse .navbar-nav .active a,
 .navbar-inverse .navbar-nav .active a:focus,
@@ -23,4 +27,14 @@
 .navbar-inverse .navbar-nav .active a:hover
 {
     color: #D5D5D5;
+}
+#logo{
+    color: #15b5dd;
+    font-size: 3em;
+}
+#subtitle{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 2em;
+
 }
